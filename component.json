@@ -2,6 +2,7 @@
   "name": "FrontendStack",
   "version": "0.0.1",
   "dependencies": {
-    "jquery": "1.9.x"
+    "jquery": "1.9.x",
+    "requirejs": "~2.1.4"
   }
 }
